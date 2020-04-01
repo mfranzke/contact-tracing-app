@@ -2,6 +2,8 @@
 
 The main purpose of this project is to preserve the contacttracingapp.eu, contact-tracing-app.eu, tracing-app.eu, tracingapp.eu and contact-tracing.app domains from for-profit domain-grabbers and enable non-profit initiatives instead.
 
+For the moment we'll provide a linklist (that you could of course as well contribute to) and will most likely donate the domain(s) to the most relevant initiatives later on.
+
 ## Contribute via GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mfranzke/tracing-app.eu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
