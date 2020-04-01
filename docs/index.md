@@ -3,7 +3,8 @@
 layout: page
 lang: en
 title: "Contact tracing app initiatives"
-permalink: /en/
+permalink: /
 
 ---
 
+# Contact tracing app initiatives
