@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Purpose of this project
+
+The main purpose of this project is to preserve the contacttracingapp.eu, contact-tracing-app.eu, tracing-app.eu and tracingapp.eu domains from for-profit domain-grabbers and enable non-profit initiatives.
+
+## Contribute via GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mfranzke/tracing-app.eu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
