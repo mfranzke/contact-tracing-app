@@ -1,6 +1,6 @@
 ## Purpose of this project
 
-The main purpose of this project is to preserve the contacttracingapp.eu, contact-tracing-app.eu, tracing-app.eu and tracingapp.eu domains from for-profit domain-grabbers and enable non-profit initiatives.
+The main purpose of this project is to preserve the contacttracingapp.eu, contact-tracing-app.eu, tracing-app.eu, tracingapp.eu and contact-tracing.app domains from for-profit domain-grabbers and enable non-profit initiatives instead.
 
 ## Contribute via GitHub Pages
 
