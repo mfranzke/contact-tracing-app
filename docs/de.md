@@ -17,4 +17,4 @@ Eine europäische non-profit-Organisation definiert einen Standart für **Contac
 
 ## Hintergrundinformationen
 
-Zusätzliche Informationen: https://www.watson.ch/digital/schweiz/276492590-forscher-kuendigen-laenderuebergreifende-contact-tracing-app-an
+Zusätzliche Informationen: <https://www.watson.ch/digital/schweiz/276492590-forscher-kuendigen-laenderuebergreifende-contact-tracing-app-an>

@@ -17,4 +17,4 @@ A european non-profit-organization defined a standard for **Contact Tracing Apps
 
 ## Background information
 
-Additional source: https://www.watson.ch/digital/schweiz/276492590-forscher-kuendigen-laenderuebergreifende-contact-tracing-app-an (DE)
+Additional source: <https://www.watson.ch/digital/schweiz/276492590-forscher-kuendigen-laenderuebergreifende-contact-tracing-app-an> (DE)
