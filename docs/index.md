@@ -7,13 +7,13 @@ permalink: /
 
 ---
 
-## Contact tracing app (beta) from Switzerland
+## **Contact Tracing App** (beta) from Switzerland
 
-The swiss company Ubique provides the Contact-Tracing-App «[NextStep](https://next-step.io/en/)».
+The swiss company Ubique provides the **Contact Tracing App** _[NextStep](https://next-step.io/en/)_.
 
-## European Contact tracing app conception initiative
+## European **Contact Tracing App** standard initiative
 
-A european non-profit-team defined a standard for contact tracing apps called [Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT)](https://www.pepp-pt.org/), with a lot of serious organizations and experts participating.
+A european non-profit-organization defined a standard for **Contact Tracing Apps** called [Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT)](https://www.pepp-pt.org/), with a lot of serious organizations and experts participating.
 
 ## Background information
 
