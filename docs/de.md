@@ -7,6 +7,10 @@ permalink: /de/
 
 ---
 
+## **Contact Tracing App** (beta) aus Deutschland
+
+Ein Konglomerat verschiedener Institutionen und Firmen stellt eine **Contact Tracing App** namens _[Corona Warn App](https://www.coronawarn.app/de/)_ bereit.
+
 ## **Contact Tracing App** (beta) aus der Schweiz
 
 Die Schweizer Firma Ubique stellt eine **Contact Tracing App** namens _[NextStep](https://next-step.io/de/)_ bereit.
